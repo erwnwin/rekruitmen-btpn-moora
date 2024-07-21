@@ -2,7 +2,7 @@
 Sistem e-Rekruitmen Pegawai dan Proses Penilaian dengan Penerapan MOORA
 ###################
 
-Aplikasi ini berbasis website dirancang menggunakakan bahasa Pemrograman PHP dengan framework Codeigniter versi 3 (Lawas). 
+Aplikasi ini berbasis website dirancang menggunakakan bahasa Pemrograman PHP dengan framework Codeigniter versi 3.
 Aplikasi ini menerapkan Metode MOORA pada proses penilaian Calon Pegawai untuk Bank dan terdapa beberapa fitur seperti Ujian Online, Pembuatan CV untuk calon pelamar dan ujian online untuk calon pelamar.
 
 *******************
